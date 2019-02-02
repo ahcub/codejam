@@ -1,6 +1,5 @@
 t = int(input())
 
-results = []
 for ti in range(1, t+1):
     n, k = map(int, input().split())
     prev_n = n
