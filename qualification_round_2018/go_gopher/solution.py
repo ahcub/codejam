@@ -1,5 +1,3 @@
-from operator import itemgetter
-
 t = int(input())
 for ti in range(1, t+1):
     a = int(input())
